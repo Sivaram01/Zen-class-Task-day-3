@@ -1,0 +1,37 @@
+{
+  "General" : {
+        "name" : "Shivu",
+        "email" : "Shivu123@gmail.com",
+        "Address" : "IITM Research park - phase 2, module #9, 3rd floor, D block, Kanagam Rd, Tharamani, Chennai, Tamil Nadu 600113",
+        "contact" : "093444 19057",
+      
+   "Education": [
+         {
+           "school" : "Alpha Plus mt higher secondary-Trichy",
+           "college" : "Mahendra engineering college-salem",
+           "Degree" : "Bacholor of engineering",
+           "cgpa" : "7.5%"
+           } 
+       ]},
+   "Technical Skills" : [ {
+          "Web technology" :"Html 5 , CSS 3 , Javascript , Bootstrap , Jquery , node.js , react.js",
+          "Language" : "Javascript",
+          "Database": "MongoDB",
+          "Application Packages" : "Visual studio code"
+       }],
+     "Soft Skills" :[{
+         "language known": "English , Tamil , Malayalam , Hindi",
+         "self Qualtiy": "creative thinking"
+           }],
+      "Area of interest" : [
+        {
+          "name" : "web development ,UI designing etc.."
+        }
+      ],
+      "Projects" : [{
+           "name" : "Created a Responsive UI called “Book store” which has the information of famous books and authors made using Html , Css with Animation , Javascript , Jquery , Bootstrap."
+      }],
+      "Hobbies" : [{
+        "name" : "Reading ,Driving ,Learning and listening to music"
+      }]
+}
